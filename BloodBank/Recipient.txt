@@ -1,0 +1,4 @@
+hani,hani123,hani123@gmail.com,kareem2020#,Male,22,zerpooo,B+,Dr Rabee3
+ziad,ziad123,ziad123@gmail.com,ziad2020#,Male,20,zaza,AB-,zizi
+aa,aa,aa@gmail.com,aa,Male,22,sd,O-,sds,
+Name,Username,Email,Password,Male,Age,Hospital,  Blood Type,Doctor of the case
